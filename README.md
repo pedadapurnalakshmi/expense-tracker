@@ -21,5 +21,3 @@ Built with **Python (Flask)**, **HTML/CSS**, and **SQL**.
 - **Server:** Flask Development Server
 
 ---
-
-## 📂 Project Structure
